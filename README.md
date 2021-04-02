@@ -23,6 +23,8 @@ manually.
 
 ## **Step Two:** Configure a Browser(IceRaven)
 
+[Browser Configuration instructions are also on the I2P Site](https://geti2p.net/en/about/browser-config#android)
+
 You'll need to get a browser which can use I2P as well. There are several browsers
 for Android but almost all of them are quite difficult to configure safely and
 correctly.
@@ -30,6 +32,10 @@ correctly.
  - [IceRaven Releases](https://github.com/fork-maintainers/iceraven-browser/releases) Freestanding APK Downloads
 
 ## **Step Three:** Configure an IRC Client(Revolution IRC or BRB for Android)
+
+### Revolution IRC
+
+[Instructions for Revolution IRC are also on the I2P Site](https://geti2p.net/en/docs/applications/irc#revolution)
 
  - [Revolution IRC](https://play.google.com/store/apps/details?id=io.mrarm.irc) Google Play Downloads
  - [Revolution IRC](https://f-droid.org/en/packages/io.mrarm.irc/) F-Droid Downloads
