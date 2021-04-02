@@ -4,16 +4,22 @@
 
 I2P for Android follows the same release schedule of as the I2P Desktop
 application. There are three "Official" places to get I2P for Android. The big
-difference between each platform is how you get updates. With the Google Play
-downloads, you'll get updates from Google automatically, usually about 6 hours
-after I upload them to Google Play Store. With F-Droid, new updates become
-available when I upload them to the downloads server, which usually takes about
-20 minutes. When using a Freestanding APK, you'll need to update the application
-manually.
+difference between each platform is how you get updates. 
 
  - [I2P for Android](https://play.google.com/store/apps/details?id=net.i2p.android) Google Play Downloads
+
+With the Google Play downloads, you'll get updates from Google automatically, usually about 6 hours
+after I upload them to Google Play Store.
+
  - [I2P for Android](https://f-droid.i2p.io) F-Droid Downloads
+
+With F-Droid, new updates become available when I upload them to the downloads
+server, which usually takes about 20 minutes to an hour.
+
  - [I2P for Android](https://download.i2p2.de/android/current/app.apk) Freestanding APK Downloads
+
+When using a Freestanding APK, you'll need to update the application
+manually.
 
 ## **Step Two:** Configure a Browser(IceRaven)
 
